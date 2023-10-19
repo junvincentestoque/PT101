@@ -1,0 +1,37 @@
+{
+  "user1": {
+    "Name": "Johnny Sins",
+    "Position": "Cashier",
+    "Location": "Bangkal",
+    "company": "Earthshaker Store",
+    "Id": 1
+  },
+  "user2": {
+    "Name": "Jordi El nino",
+    "Position": "Developer",
+    "Location": "hulaan mo",
+    "company": "monster inc",
+    "Id": 2
+  },
+  "user3": {
+    "Name": "Lil pump",
+    "Position": "mechanic",
+    "Location": "Sultan kudarat",
+    "company": "Skrt garage",
+    "Id": 3
+  },
+  "user4": {
+    "Name": "Webster",
+    "Position": "Manager Associate",
+    "Location": "Buhangin",
+    "company": "Loco garage",
+    "Id": 4
+  },
+  "user5": {
+    "Name": "Papa john",
+    "Position": "Security",
+    "Location": "barangay pogi",
+    "company": "Rich bank",
+    "Id": 5
+  }
+}
